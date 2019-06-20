@@ -1,0 +1,44 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: sponsor-prospect2019.ai
+Modo de color: Color CMYK
+Perfil de color: Coated FOGRA39 (ISO 12647-2:2004)
+Unidades de regla: mil’metros
+Dimensiones de la mesa de trabajo: 419,9996 mm x 297,0001 mm
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Geomanist Medium (OTF)
+Geomanist Light (OTF)
+Geomanist Book (OTF)
+Geomanist (OTF)
+Geomanist Italic (OTF)
+Geomanist Bold (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+Ninguno
