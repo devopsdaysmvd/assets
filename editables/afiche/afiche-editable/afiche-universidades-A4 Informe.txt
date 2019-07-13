@@ -1,0 +1,46 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: afiche-universidades-A4.ai
+Modo de color: Color CMYK
+Perfil de color: Coated FOGRA39 (ISO 12647-2:2004)
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 595,2756 px x 841,8898 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+PANTONE 194 CV (CMYK)
+PANTONE 1945 C (Lab)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Geomanist Medium (OTF)
+Myriad Pro (OTF)
+Geomanist Light (OTF)
+Geomanist (OTF)
+Times New Roman Bold (OTF)
+Geomanist Bold (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+Ninguno
